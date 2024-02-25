@@ -29,10 +29,10 @@ module.exports = [
       needComments: true,
       // 其他的 Vssue 配置
       autoCreateIssue: true,
-      clientId: "adb9fb0ac1159e00ce7f",
-      clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-      owner: "eryajf",
-      repo: "chatgpt-information",
+      clientId: "ecfb916b96791de5037e",
+      clientSecret: "4d31debd9769b342983b158153149e54ec1b13c9",
+      owner: "freecoastline",
+      repo: "freecoastline.github.io",
     },
   ],
   [
